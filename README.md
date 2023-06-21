@@ -25,3 +25,5 @@
 ###링크 (Links)
 [구글] (https://www.google.com/)
 [네이버] (https://www.naver.com)
+[구글홈페이지]<https://www.google.com/>
+[네이버홈페이지]<https://www.naver.com/>
