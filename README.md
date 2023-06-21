@@ -45,7 +45,7 @@
 
 ### 블록(block)코드 강조
 
-`을 세번 하면 <pre />의미이고 html을 하면 <code />을 의미한다.
+`을 세번 하면 <pre\>의미이고 html을 하면 <code\>을 의미한다.
 
 ```html
 <a href="https://www.naver.com/">네이버</a>
