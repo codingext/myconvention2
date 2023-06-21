@@ -141,3 +141,11 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,eclipse,visualstudiocode,java
+
+Windows, macos, eclipse, visualstudiocode, java 생성 클릭
+
+생성된 내용을 전체복사해서 .gitignore 파일에 붙여넣기
+
+$ git add .
+$ git commit -m 'Add tool'
+$ git push origin master
