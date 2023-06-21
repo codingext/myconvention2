@@ -18,6 +18,6 @@
 
 -순서가 없는 목록 -대쉬 (hyphen)
 
-- 별표(asteriks)
-
-* 더하기(plus sign)
+    - 대쉬
+    * 별표(asteriks)
+    + 더하기(plus sign)
