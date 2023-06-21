@@ -27,3 +27,6 @@
 [네이버](https://www.naver.com)  
 [구글홈페이지]<https://www.google.com/>
 [네이버홈페이지]<https://www.naver.com/>
+
+###이미지 (images)
+![무지개고양이](https://cdn.aitimes.kr/news/photo/202303/27617_41603_044.jpg)
